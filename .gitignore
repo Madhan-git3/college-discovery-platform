@@ -1,0 +1,14 @@
+# Ignore Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore Node Modules (Double check)
+node_modules/
+**/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
